@@ -1,9 +1,8 @@
 # Gestao de Pacientes
 Esse é um projeto que está sendo construído que visa realizar a gestão de pacientes de um consultório, por enquanto apenas pacientes
 
+## Projeto em construção
 
-Lembrando que esse é um projeto em construção
---
 
 # Linguagem Utilizada
  - Java para fazer o back-end, utilizando Spring Boot como framework
